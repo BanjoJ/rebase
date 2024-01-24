@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 testi
 
+=======
+testi1
+muutos 2
+muutos 3
+>>>>>>> 64faf65 (3. muutos)
